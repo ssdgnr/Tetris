@@ -7,12 +7,12 @@ To run the code install the panda3d game engine(see site for details)
 open the command prompt and change the directiory to the code's  location 
 then in the command prompt type ppython GameManager.py to run the game.
 The controls are
-left = a
-down = s
-right = d
+left = a,
+down = s,
+right = d, 
 rotate = w
-and if you need to get out of sticky situation by by cheating
-u for u = up.
+and 
+for u = up.(An extra addition)
 My email is systemdgn7i@gmail.com
 in case there are any questions.
 Comments on the code are appreciated.
